@@ -1,0 +1,30 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Build
+.next/
+out/
+build/
+dist/
+
+# Sessions
+.session

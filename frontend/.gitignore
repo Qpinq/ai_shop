@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+build/
+.env.local
+.env.production.local
+.env.development.local
+.env.test.local
+*.log
+.DS_Store
+*.swp
+.nyc_output/
+coverage/

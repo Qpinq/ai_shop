@@ -1,0 +1,134 @@
+{
+  "tickets": [
+    {
+      "ticket_id": "TK-0001",
+      "user_id": 1,
+      "user_name": "test",
+      "user_email": "admin@admin.ru",
+      "subject": "приветке",
+      "message": "щзпоркешорз",
+      "status": "in_progress",
+      "created_at": "2026-04-21T21:31:29.099657",
+      "replies": [
+        {
+          "sender": "Оператор NovaTech",
+          "sender_role": "operator",
+          "message": "жароу",
+          "created_at": "2026-04-21T21:31:38.360507"
+        }
+      ]
+    },
+    {
+      "ticket_id": "TK-0002",
+      "user_id": 1,
+      "user_name": "test",
+      "user_email": "admin@admin.ru",
+      "subject": "Эскалация из чата",
+      "message": "переведи на оператора",
+      "status": "in_progress",
+      "created_at": "2026-04-21T21:47:34.803790",
+      "replies": [
+        {
+          "sender": "test",
+          "sender_role": "user",
+          "message": "доюоый вечер",
+          "created_at": "2026-04-21T21:49:19.875569"
+        },
+        {
+          "sender": "Оператор NovaTech",
+          "sender_role": "operator",
+          "message": "как ваши дела",
+          "created_at": "2026-04-21T21:49:34.017197"
+        }
+      ]
+    },
+    {
+      "ticket_id": "TK-0003",
+      "user_id": 1,
+      "user_name": "test",
+      "user_email": "admin@admin.ru",
+      "subject": "Эскалация из чата",
+      "message": "переведи на оператора",
+      "status": "in_progress",
+      "created_at": "2026-04-21T21:54:35.063352",
+      "replies": [
+        {
+          "sender": "test",
+          "sender_role": "user",
+          "message": "привует",
+          "created_at": "2026-04-21T21:54:39.369269"
+        },
+        {
+          "sender": "Оператор NovaTech",
+          "sender_role": "operator",
+          "message": "добрый вечер",
+          "created_at": "2026-04-21T21:54:51.896784"
+        },
+        {
+          "sender": "test",
+          "sender_role": "user",
+          "message": "хлочу обменять свой смартфон",
+          "created_at": "2026-04-21T21:55:03.918887"
+        },
+        {
+          "sender": "Оператор NovaTech",
+          "sender_role": "operator",
+          "message": "нету у нас обмена",
+          "created_at": "2026-04-21T21:55:15.977331"
+        }
+      ]
+    },
+    {
+      "ticket_id": "TK-0004",
+      "user_id": 1,
+      "user_name": "test",
+      "user_email": "admin@admin.ru",
+      "subject": "Эскалация из чата",
+      "message": "переведи на оператора пжпжпжжп",
+      "status": "in_progress",
+      "created_at": "2026-04-22T17:12:56.368659",
+      "replies": [
+        {
+          "sender": "Оператор NovaTech",
+          "sender_role": "operator",
+          "message": "вуа",
+          "created_at": "2026-04-22T17:13:23.996614"
+        },
+        {
+          "sender": "Оператор NovaTech",
+          "sender_role": "operator",
+          "message": "вуа",
+          "created_at": "2026-04-22T17:13:25.110763"
+        },
+        {
+          "sender": "Оператор NovaTech",
+          "sender_role": "operator",
+          "message": "вау",
+          "created_at": "2026-04-22T17:13:29.415944"
+        }
+      ],
+      "chat_history": [
+        {
+          "role": "assistant",
+          "content": "Привет! 👋 Я AI-ассистент NovaTech. Готов помочь с вопросами о товарах, доставке и возврате.",
+          "timestamp": 1776867148240
+        },
+        {
+          "role": "user",
+          "content": "привет",
+          "timestamp": 1776867156042
+        },
+        {
+          "role": "assistant",
+          "content": "Привет! 👋 Рад видеть вас в магазине NovaTech!\n\nЯ помогу вам:\n- Подобрать технику (смартфоны, ноутбуки, наушники и т.д.)\n- Узнать о доставке и оплате\n- Проверить статус заказа\n- Объяснить условия возврата и гарантии\n\nЧто вас интересует?",
+          "timestamp": 1776867161466
+        },
+        {
+          "role": "user",
+          "content": "переведи на оператора пжпжпжжп",
+          "timestamp": 1776867167151
+        }
+      ]
+    }
+  ]
+}

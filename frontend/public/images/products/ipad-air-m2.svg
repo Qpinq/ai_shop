@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="572" height="572" viewBox="0 0 572 572">
+  <rect width="572" height="572" fill="#f5f5f7"/>
+  <defs>
+    <linearGradient id="g13" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5ac8fa;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#007aff;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect x="146" y="166" width="280" height="200" rx="16" fill="url(#g13)"/>
+  <rect x="156" y="176" width="260" height="180" rx="8" fill="#fff"/>
+  <rect x="176" y="196" width="220" height="140" rx="4" fill="#f5f5f7"/>
+  <rect x="256" y="366" width="60" height="6" rx="3" fill="#86868b"/>
+  <text x="286" y="450" text-anchor="middle" fill="#1d1d1f" font-family="system-ui" font-size="18" font-weight="600">iPad Air M2</text>
+  <text x="286" y="475" text-anchor="middle" fill="#86868b" font-family="system-ui" font-size="14">11" Blue</text>
+</svg>

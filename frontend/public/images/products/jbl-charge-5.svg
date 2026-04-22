@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="572" height="572" viewBox="0 0 572 572">
+  <rect width="572" height="572" fill="#1a1a1a"/>
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ff6600;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ff8c00;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect x="216" y="126" width="140" height="260" rx="20" fill="url(#g3)"/>
+  <circle cx="286" cy="200" r="40" fill="#1a1a1a" opacity="0.3"/>
+  <circle cx="286" cy="200" r="25" fill="#1a1a1a" opacity="0.5"/>
+  <rect x="246" y="280" width="80" height="6" rx="3" fill="#1a1a1a" opacity="0.4"/>
+  <rect x="256" y="296" width="60" height="6" rx="3" fill="#1a1a1a" opacity="0.3"/>
+  <text x="286" y="460" text-anchor="middle" fill="#ff6600" font-family="system-ui" font-size="20" font-weight="700">JBL</text>
+  <text x="286" y="490" text-anchor="middle" fill="#888" font-family="system-ui" font-size="16">Charge 5</text>
+</svg>

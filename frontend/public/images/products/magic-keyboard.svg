@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="572" height="572" viewBox="0 0 572 572">
+  <rect width="572" height="572" fill="#f5f5f7"/>
+  <defs>
+    <linearGradient id="g22" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8e8ed;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#d2d2d7;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <rect x="146" y="246" width="280" height="80" rx="8" fill="url(#g22)"/>
+  <rect x="166" y="256" width="240" height="60" rx="4" fill="#f5f5f7"/>
+  <rect x="186" y="266" width="20" height="10" rx="2" fill="#d2d2d7"/>
+  <rect x="216" y="266" width="20" height="10" rx="2" fill="#d2d2d7"/>
+  <rect x="246" y="266" width="20" height="10" rx="2" fill="#d2d2d7"/>
+  <rect x="276" y="266" width="20" height="10" rx="2" fill="#d2d2d7"/>
+  <rect x="306" y="266" width="20" height="10" rx="2" fill="#d2d2d7"/>
+  <rect x="336" y="266" width="20" height="10" rx="2" fill="#d2d2d7"/>
+  <rect x="226" y="286" width="120" height="6" rx="3" fill="#d2d2d7"/>
+  <text x="286" y="400" text-anchor="middle" fill="#1d1d1f" font-family="system-ui" font-size="16" font-weight="600">Magic Keyboard</text>
+  <text x="286" y="425" text-anchor="middle" fill="#86868b" font-family="system-ui" font-size="14">Apple</text>
+</svg>

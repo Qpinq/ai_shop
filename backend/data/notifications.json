@@ -1,0 +1,12 @@
+{
+  "notifications": [
+    {
+      "id": "NOTIF-0001",
+      "title": "Новое обращение от оператора",
+      "message": "Пользователь test (admin@admin.ru) запросил оператора. Тикет: TK-0004",
+      "type": "escalation",
+      "created_at": "2026-04-22T17:12:56.368972",
+      "read": false
+    }
+  ]
+}

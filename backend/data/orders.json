@@ -1,0 +1,75 @@
+{
+  "orders": [
+    {
+      "order_id": "NT-2026-001",
+      "email": "ivan@example.com",
+      "status": "Доставляется",
+      "items": [
+        "Apple AirPods Pro 2",
+        "Xiaomi Smart Band 8"
+      ],
+      "total": 22480,
+      "date": "2026-04-18",
+      "estimated_delivery": "2026-04-22"
+    },
+    {
+      "order_id": "NT-2026-002",
+      "email": "maria@example.com",
+      "status": "Обработан",
+      "items": [
+        "Samsung Galaxy S24 Ultra"
+      ],
+      "total": 94990,
+      "date": "2026-04-20",
+      "estimated_delivery": "2026-04-25"
+    },
+    {
+      "order_id": "NT-2026-003",
+      "email": "alex@example.com",
+      "status": "Доставлен",
+      "items": [
+        "JBL Charge 5",
+        "Anker PowerCore 26800"
+      ],
+      "total": 17980,
+      "date": "2026-04-10",
+      "estimated_delivery": "2026-04-15"
+    },
+    {
+      "order_id": "NT-2026-004",
+      "email": "elena@example.com",
+      "status": "Возврат",
+      "items": [
+        "Sony WH-1000XM5"
+      ],
+      "total": 29990,
+      "date": "2026-04-05",
+      "estimated_delivery": "2026-04-10"
+    },
+    {
+      "order_id": "NT-2026-005",
+      "email": "dmitry@example.com",
+      "status": "Доставляется",
+      "items": [
+        "Apple MacBook Air M3",
+        "Apple Magic Keyboard"
+      ],
+      "total": 119980,
+      "date": "2026-04-19",
+      "estimated_delivery": "2026-04-23"
+    },
+    {
+      "order_id": "NT-2026-006",
+      "email": "admin@admin.ru",
+      "status": "Обработан",
+      "items": [
+        "Apple iPad Air M2"
+      ],
+      "total": 274950,
+      "date": "2026-04-21",
+      "estimated_delivery": "3-5 дней",
+      "address": "3132131",
+      "phone": "+79381594232"
+    }
+  ]
+}
